@@ -7,7 +7,7 @@ Este proyecto implementa una **API REST con FastAPI** que construye un sistema d
 **FastAPI** para exponer los endpoints
 
 El sistema permite cargar documentos de texto, generar embeddings, realizar búsquedas semánticas
-y responder preguntas **únicamente usando el contexto recuperado**.
+y responder preguntas **únicamente usando el contexto recuperado**..
 ## 🚀 Tecnologías utilizadas
 - Python 3.10+
 - FastAPI
